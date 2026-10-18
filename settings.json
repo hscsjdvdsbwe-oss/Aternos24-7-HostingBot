@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheVexySMP.aternos.me:62340",
+    "ip": "TheVexySMP.aternos.me",
     "port": 62340,
     "version": "",
     "try-creative": false
