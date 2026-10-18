@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "TheVexySMP.aternos.me:62340",
+    "port": 62340,
     "version": "",
     "try-creative": false
   },
